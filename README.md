@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @smasher34
+- 👋 Hi, I’m @Japheth Bwire
 - 👀 I’m interested in ...coding and wed development
 - 🌱 I’m currently learning ...softare engineering, C language
 - 💞️ I’m looking to collaborate on ...system development
