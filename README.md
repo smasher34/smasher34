@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Japheth Bwire
 - 👀 I’m interested in ...coding and wed development
-- 🌱 I’m currently learning ...softare engineering, C language
+- 🌱 I’m crrently sharpening on my coding skills, I'm open for ongoing projects 
 - 💞️ I’m looking to collaborate on ...system development
 - 📫 How to reach me ...email: japhethbwire2004@gmail.com or whatsapp at +254 707040546
 - 😄 Pronouns: ...
